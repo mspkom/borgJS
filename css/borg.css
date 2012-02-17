@@ -1,0 +1,11 @@
+#borg {
+	position: relative;
+	top: 100px;
+	width: 200px;
+	height: 150px;
+	margin: 0 auto;
+	padding: 10px;
+	background: #dedede;
+	border: 10px solid #000;
+	z-index: 666;
+}
